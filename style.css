@@ -1,0 +1,62 @@
+body{
+	padding:0px;
+	margin:0px;
+    font-family: "Garamond";
+}
+
+.header{
+	margin:0;
+    background-color: #26d0c9;
+    color: #fff;
+    height: 90px;
+	width:100%;
+	position:fixed;
+}
+
+.header-logo{
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+}
+
+.header-list li {
+    float: left;
+    padding: 33px 40px;
+}
+
+li{
+    list-style: none;
+}
+
+.main{
+    height: 400px;
+    padding: 100px 80px;
+}
+
+.copy-container h1{
+    font-size: 80px;
+}
+
+.copy-container h2{
+    font-size: 60px;
+}
+
+.merah {
+    color: red;
+}
+
+.footer{
+    background-color: #454194;
+    color: #fff;
+    height: 120px;
+    padding: 40px;
+}
+
+.footer-logo{
+    font-size: 32px;
+    float: left;
+}
+
+.footer-list{
+    float: right;
+}
